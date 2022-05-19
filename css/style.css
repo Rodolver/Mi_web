@@ -1,0 +1,79 @@
+.navback{
+    background-color: #16325c;
+    text-align: right;
+    padding: 0 !important;
+}
+
+.nav-item{
+    padding: 0px 10px;
+}
+.nav-link{
+    height: 70px;
+    line-height: 3;
+    color: white !important;
+    box-sizing: border-box;
+}
+
+.nav-item:hover{
+     background-color: lightgray;
+     color: black !important;
+}
+.nav-link:hover{
+    color: #16325c !important;
+}
+
+.img_s{
+    max-height: 400px;
+}
+.txt_1{
+    text-align: justify;
+    font-size: 18px;
+}
+.pie_bgc{
+   background-color: #16325c; 
+}
+.f_txt{
+    color: white;
+    font-size: 14px;
+}
+.f_link a{
+    text-decoration: none;
+    font-size: 14px;
+}
+.f_link a:hover{
+    opacity: 0.5;
+}
+
+.iconos{
+    color: white;
+}
+.s_link{
+    text-decoration: none;
+}
+.s_th{
+    color: white !important;
+    background-color: #16325c !important;
+}
+.pro_link:hover{
+    opacity: 60%;
+}
+
+@media (max-width: 991.98px){
+    .img_s{
+        float: left !important;
+    }
+    .txt_1{
+    text-align: left;
+}
+    
+
+/*
+@media  (min-width: 1200px) {
+   .bene{
+        padding-left: 110px;
+    }
+    
+}
+*/
+
+
